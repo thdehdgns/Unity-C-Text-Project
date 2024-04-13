@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Funtion\obj\Debug\Funtion.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Funtion\obj\Debug\Funtion.csproj.CoreCompileInputs.cache

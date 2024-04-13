@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\bin\Debug\net6.0\Memory.exe
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\bin\Debug\net6.0\Memory.deps.json
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\bin\Debug\net6.0\Memory.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\bin\Debug\net6.0\Memory.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\bin\Debug\net6.0\Memory.pdb
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\Memory.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\Memory.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\Memory.sourcelink.json
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\Memory.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\refint\Memory.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\Memory.pdb
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\Memory.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\Memori\obj\Debug\net6.0\ref\Memory.dll
