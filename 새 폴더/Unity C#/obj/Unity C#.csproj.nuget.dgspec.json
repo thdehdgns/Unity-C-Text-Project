@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\Unity C#\\Unity C#.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\새 폴더\\Unity C#\\Unity C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\Unity C#\\Unity C#.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\새 폴더\\Unity C#\\Unity C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\Unity C#\\Unity C#.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\새 폴더\\Unity C#\\Unity C#.csproj",
         "projectName": "Unity C#",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\Unity C#\\Unity C#.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\새 폴더\\Unity C#\\Unity C#.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\Unity C#\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\새 폴더\\Unity C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

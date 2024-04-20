@@ -13,3 +13,18 @@ C:\Users\Administrator\Desktop\Unity-C-Text-Project\Funtion2\obj\Debug\net6.0\re
 C:\Users\Administrator\Desktop\Unity-C-Text-Project\Funtion2\obj\Debug\net6.0\Funtion2.pdb
 C:\Users\Administrator\Desktop\Unity-C-Text-Project\Funtion2\obj\Debug\net6.0\Funtion2.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Unity-C-Text-Project\Funtion2\obj\Debug\net6.0\ref\Funtion2.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\bin\Debug\net6.0\Funtion2.exe
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\bin\Debug\net6.0\Funtion2.deps.json
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\bin\Debug\net6.0\Funtion2.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\bin\Debug\net6.0\Funtion2.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\bin\Debug\net6.0\Funtion2.pdb
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\Funtion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\Funtion2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\Funtion2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\Funtion2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\Funtion2.sourcelink.json
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\Funtion2.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\refint\Funtion2.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\Funtion2.pdb
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\Funtion2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\Funtion2\obj\Debug\net6.0\ref\Funtion2.dll

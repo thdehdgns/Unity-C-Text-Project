@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\Funtion2\\Funtion2.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\새 폴더\\Funtion2\\Funtion2.csproj",
       "projectName": "Funtion2",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\Funtion2\\Funtion2.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\새 폴더\\Funtion2\\Funtion2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\Funtion2\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity-C-Text-Project\\새 폴더\\Funtion2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
