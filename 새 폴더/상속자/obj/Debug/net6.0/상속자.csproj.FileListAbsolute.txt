@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\bin\Debug\net6.0\상속자.exe
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\bin\Debug\net6.0\상속자.deps.json
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\bin\Debug\net6.0\상속자.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\bin\Debug\net6.0\상속자.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\bin\Debug\net6.0\상속자.pdb
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\상속자.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\상속자.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\상속자.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\상속자.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\상속자.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\refint\상속자.dll
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\상속자.pdb
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\상속자.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity-C-Text-Project\새 폴더\상속자\obj\Debug\net6.0\ref\상속자.dll
